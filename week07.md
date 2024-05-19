@@ -4,7 +4,7 @@
 
 The screenshot of the details:
 
-![GitHub Screenshot Demo](images/week7-task1.png)
+![GitHub Screenshot Demo](./images/week7task1.png)
 
 
 ## Task 2. Login to Microsoft Learn on Demand
